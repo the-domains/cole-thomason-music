@@ -22,10 +22,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.reverbnation.com/colethomason'
 title: 'Cole Thomason | Americana from Jenner, CA'
-datePublished: '2016-06-03T08:16:04.794Z'
-dateModified: '2016-06-03T08:16:02.320Z'
+datePublished: '2016-06-03T08:16:23.326Z'
+dateModified: '2016-06-03T08:16:21.887Z'
 sourcePath: _posts/2016-06-03-cole-thomason-or-americana-from-jenner-ca.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
