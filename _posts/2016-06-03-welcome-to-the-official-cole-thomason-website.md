@@ -1,7 +1,7 @@
 ---
 description: 'Hello and thanks for stopping by, This is the difinitive site for upcoming shows and music from Cole Thomason'
-dateModified: '2016-06-03T04:14:01.182Z'
-datePublished: '2016-06-03T04:14:05.492Z'
+dateModified: '2016-06-03T04:14:39.926Z'
+datePublished: '2016-06-03T04:14:43.024Z'
 title: Welcome to the official Cole Thomason Website
 author: []
 sourcePath: _posts/2016-06-03-welcome-to-the-official-cole-thomason-website.md
