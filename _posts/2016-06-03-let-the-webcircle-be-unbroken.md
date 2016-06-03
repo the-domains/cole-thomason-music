@@ -1,11 +1,11 @@
 ---
 description: 'Fellow Musicians:'
-dateModified: '2016-06-03T07:50:33.384Z'
-datePublished: '2016-06-03T07:50:33.858Z'
+dateModified: '2016-06-03T08:16:07.031Z'
+datePublished: '2016-06-03T08:16:07.510Z'
 title: Let the (web)circle be unbroken.
 author: []
-starred: false
 sourcePath: _posts/2016-06-03-let-the-webcircle-be-unbroken.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
