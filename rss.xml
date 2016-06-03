@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Cole Thomason Music]]></title>
+        <description><![CDATA[Cole Thomason Music]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 03 Jun 2016 02:37:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cole Thomason 2014 Summer Tour]]></title>
+            <description><![CDATA[<article><h1>Cole Thomason 2014 Summer Tour</h1><p>Finally got a chance to look at some of the footage from the tour, hope you enjoy.</p></article>]]></description>
+            <link>https://youtu.be/jnhIfzEaU9k</link>
+            <guid isPermaLink="false">f029fae1-ff4a-4069-bef8-f36471b41126</guid>
+            <pubDate>Fri, 03 Jun 2016 02:36:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
