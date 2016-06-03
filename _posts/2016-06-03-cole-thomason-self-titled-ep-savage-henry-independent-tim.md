@@ -25,10 +25,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://savagehenrymagazine.com/cole-thomason-self-titled-ep/'
 title: 'Cole Thomason: Self-Titled EP - Savage Henry Independent Times'
-datePublished: '2016-06-03T04:10:55.029Z'
-dateModified: '2016-06-03T04:10:51.248Z'
+datePublished: '2016-06-03T04:11:18.167Z'
+dateModified: '2016-06-03T04:11:10.535Z'
 sourcePath: _posts/2016-06-03-cole-thomason-self-titled-ep-savage-henry-independent-tim.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
