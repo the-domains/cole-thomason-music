@@ -14,10 +14,10 @@ description: 'Finally got a chance to look at some of the footage from the tour,
 app_links: []
 isBasedOnUrl: 'https://youtu.be/jnhIfzEaU9k'
 title: Cole Thomason 2014 Summer Tour
-datePublished: '2016-06-03T07:50:56.874Z'
-dateModified: '2016-06-03T07:50:49.178Z'
+datePublished: '2016-06-03T08:16:47.151Z'
+dateModified: '2016-06-03T08:16:40.269Z'
 sourcePath: _posts/2016-06-03-cole-thomason-2014-summer-tour.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
