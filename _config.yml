@@ -1,15 +1,27 @@
-layout_spectrum: 0.6670065461657941
-typography_spectrum: 0.9648693935014307
+layout_spectrum: 1
+name: Cole Thomason Music
+title: Welcome to the official Cole Thomason website
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
   brandStrength: 0.5914248037151992
-  lightness: 0.4852131991647184
-  saturation: 0.30022591538727283
-  rhythmicContrast: 0.040139967342838645
+  lightness: 0.5829787
+  saturation: 0.7531915
+  rhythmicContrast: 0.8319149
   brandColors:
     - '#DDDCC5'
     - '#958976'
     - '#611427'
     - '#1D2326'
     - '#6A6A61'
-name: Cole Thomason Music
-title: Welcome to the official Cole Thomason website
+typography_spectrum: 0.1085106
