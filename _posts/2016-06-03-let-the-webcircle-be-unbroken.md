@@ -1,11 +1,11 @@
 ---
 description: 'Fellow Musicians:'
-dateModified: '2016-06-03T08:16:18.269Z'
-datePublished: '2016-06-03T08:16:21.197Z'
+dateModified: '2016-06-05T02:28:51.980Z'
+datePublished: '2016-06-05T02:28:52.628Z'
 title: Let the (web)circle be unbroken.
 author: []
 sourcePath: _posts/2016-06-03-let-the-webcircle-be-unbroken.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
@@ -48,7 +48,7 @@ Music Festivals:
 [1]: https://www.facebook.com/Sons-of-Jefferson-118029741560655/
 [2]: https://www.reverbnation.com/thecalamitycubes
 [3]: www.theharmedbrothers.com
-[4]: ppjrecords.com
+[4]: www.ppjrecord.com
 [5]: www.tomvandenavond.com
 [6]: willyteataylor.com
 [7]: https://www.reverbnation.com/sodagardocki
