@@ -15,8 +15,8 @@ collections:
       path: '/:title/'
 color:
   brandStrength: 0.5914248037151992
-  lightness: 0.5829787
-  saturation: 0.7531915
+  lightness: 0.5702128
+  saturation: 0.7787234
   rhythmicContrast: 0.8319149
   brandColors:
     - '#DDDCC5'
