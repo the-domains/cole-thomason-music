@@ -1,28 +1,17 @@
+name: Cole Thomason Music
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/432da3ff-86be-4360-8264-0537f67124b9.jpg
+layout_spectrum: 1
 typography_spectrum: 0.1085106
 color:
-  brandStrength: 0.9787234
-  lightness: 0.9808511
-  saturation: 0.7787234
-  rhythmicContrast: 0.2468085
   brandColors:
     - '#210408'
     - '#FCFBE5'
     - '#373632'
     - '#6D3421'
     - '#DED1B5'
-layout_spectrum: 1
-name: Cole Thomason Music
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/432da3ff-86be-4360-8264-0537f67124b9.jpg'
-collections:
-  - index:
-      navigable: true
-      path: /
-      number: 15
-      paginate: true
-    feed:
-      format: rss
-      path: /rss.xml
-      number: 10
-    permalink:
-      path: '/:title/'
+  brandStrength: 0.9787234
+  lightness: 0.9808511
+  saturation: 0.7787234
+  rhythmicContrast: 0.2468085
 title: Welcome to the official Cole Thomason website
