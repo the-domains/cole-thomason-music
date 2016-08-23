@@ -10,6 +10,8 @@ color:
   lightness: 0.9808511
   saturation: 0.7787234
   rhythmicContrast: 0.2468085
+opengraph:
+  appId: '249783212081793'
 layout_spectrum: 1
 author:
   name: Cole Thomason
