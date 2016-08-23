@@ -1,39 +1,49 @@
 ---
-datePublished: '2016-08-23T09:44:52.295Z'
-sourcePath: _posts/2016-06-03-let-the-webcircle-be-unbroken.md
-hasPage: true
+datePublished: '2016-08-23T09:49:17.871Z'
 author: []
 via: {}
 metadata:
-  datePublished: '2016-08-23T08:30:11.002Z'
+  datePublished: '2016-08-23T09:44:52.295Z'
   sourcePath: _posts/2016-06-03-let-the-webcircle-be-unbroken.md
+  hasPage: true
   author: []
   via: {}
   metadata:
-    title: Let the (web)circle be unbroken.
-    datePublished: '2016-06-06T06:16:51.053Z'
-    dateModified: '2016-08-22T21:58:06.125Z'
-    publisher: {}
+    datePublished: '2016-08-23T08:30:11.002Z'
+    sourcePath: _posts/2016-06-03-let-the-webcircle-be-unbroken.md
     author: []
-    description: 'Fellow Musicians:'
     via: {}
-  dateModified: '2016-08-23T08:30:11.002Z'
+    metadata:
+      title: Let the (web)circle be unbroken.
+      datePublished: '2016-06-06T06:16:51.053Z'
+      dateModified: '2016-08-22T21:58:06.125Z'
+      publisher: {}
+      author: []
+      description: 'Fellow Musicians:'
+      via: {}
+    dateModified: '2016-08-23T08:30:11.002Z'
+    title: “let the web circle be unbroken”
+    id: c4b9c56f-0401-4ea6-98f8-f1c1e7a92d39
+    publisher: {}
+    description: ''
+  dateModified: '2016-08-23T09:44:52.295Z'
   title: “let the web circle be unbroken”
   id: c4b9c56f-0401-4ea6-98f8-f1c1e7a92d39
   publisher: {}
   description: ''
-dateModified: '2016-08-23T09:44:41.766Z'
+dateModified: '2016-08-23T09:49:16.292Z'
 title: “let the web circle be unbroken”
 id: c4b9c56f-0401-4ea6-98f8-f1c1e7a92d39
 publisher: {}
-description: ''
+description: The Calamity Cubes
 starred: false
-url: let-the-web-circle-be-unbroken/index.html
-_type: Blurb
+sourcePath: _posts/2016-06-03-let-the-webcircle-be-unbroken.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/144c1379-b53c-47d9-969e-73a4f3c52d14.jpg)
-
 # "let the web circle be unbroken"
 
 [The Calamity Cubes][0]
