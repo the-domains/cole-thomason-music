@@ -25,17 +25,17 @@ metadata:
   id: 6d60627b-54b5-4697-83f5-22254df22510
   publisher: {}
   description: ''
-dateModified: '2016-08-23T08:39:01.523Z'
+dateModified: '2016-08-23T08:39:12.639Z'
 title: >-
   Hello and thanks for stopping by, This is the difinitive site for upcoming
   shows and music from Cole Thomason
-datePublished: '2016-08-23T08:39:02.973Z'
+datePublished: '2016-08-23T08:39:14.111Z'
 author: []
 description: ''
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-06-03-welcome-to-the-official-cole-thomason-website.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
