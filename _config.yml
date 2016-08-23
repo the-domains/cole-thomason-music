@@ -23,6 +23,10 @@ author:
   url: ''
   email: Colethomason@gmail.com
 name: Cole Thomason Music
+navigation:
+  - name: follow us on facebook
+    url: facebook.com/colethomasoneverybody
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/432da3ff-86be-4360-8264-0537f67124b9.jpg
 title: Welcome to the official Cole Thomason website
