@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T08:20:22.544Z'
+datePublished: '2016-08-23T08:30:11.002Z'
 sourcePath: _posts/2016-06-03-let-the-webcircle-be-unbroken.md
 author: []
 via: {}
@@ -11,14 +11,11 @@ metadata:
   author: []
   description: 'Fellow Musicians:'
   via: {}
-dateModified: '2016-08-23T08:20:20.974Z'
-title: >-
-  Click here to connect with our friends around the world. Grassroots, music,
-  art and anything else we think you should devote a second of your online
-  attention span to. This is what inspires us, hope it does the same for you.
+dateModified: '2016-08-23T08:30:09.348Z'
+title: “let the web circle be unbroken”
 id: c4b9c56f-0401-4ea6-98f8-f1c1e7a92d39
 publisher: {}
-description: The Good Luck Thrift Store Outfit
+description: ''
 starred: false
 inFeed: true
 hasPage: false
@@ -26,23 +23,25 @@ inNav: false
 _type: MediaObject
 
 ---
-<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac11dba0-3911-48be-8604-b8045d1cda7d.jpg" /><h1>Click here to connect with our friends around the world. Grassroots, music, art and anything else we think you should devote a second of your online attention span to. This is what inspires us, hope it does the same for you.</h1><p>Click here to connect with our friends around the world. Grassroots, music, art and anything else we think you should devote a second of your online attention span to. This is what inspires us, hope it does the same for you.</p></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1be3214b-bc3e-4732-a6a4-b56dc87603e3.jpg)
 
-[The Good Luck Thrift Store Outfit][0]
+# "let the web circle be unbroken"
 
-[Sons of Jefferson][1]
+[The Calamity Cubes][0]
 
-[The Calamity Cubes][2]
+[The Harmed Brothers][1]
 
-[The Harmed Brothers][3]
+[Possessed by Paul James][2]
 
-[Possessed by Paul James][4]
+[Tom Vandenavond][3]
 
-[Tom Vandenavond][5]
+[Willy Tea Taylor][4]
 
-[Willy Tea Taylor][6]
+[Soda Gardocki][5]
 
-[Soda Gardocki][7]
+[The Good Luck Thrift Store Outfit][6]
+
+[Sons of Jefferson][7]
 
 [Larry and His Flask][8]
 
@@ -56,14 +55,14 @@ Music Festivals:
 
 [Muddy Roots][12]
 
-[0]: www.thegoodluckthriftstoreoutfit.com
-[1]: https://www.facebook.com/Sons-of-Jefferson-118029741560655/
-[2]: https://www.reverbnation.com/thecalamitycubes
-[3]: www.theharmedbrothers.com
-[4]: www.ppjrecord.com
-[5]: www.tomvandenavond.com
-[6]: willyteataylor.com
-[7]: https://www.reverbnation.com/sodagardocki
+[0]: https://www.reverbnation.com/thecalamitycubes
+[1]: www.theharmedbrothers.com
+[2]: www.ppjrecord.com
+[3]: www.tomvandenavond.com
+[4]: willyteataylor.com
+[5]: https://www.reverbnation.com/sodagardocki
+[6]: www.thegoodluckthriftstoreoutfit.com
+[7]: https://www.facebook.com/Sons-of-Jefferson-118029741560655/
 [8]: www.larryandhisflask.com
 [9]: www.pineboxboys.com
 [10]: strawberrymusic.com
