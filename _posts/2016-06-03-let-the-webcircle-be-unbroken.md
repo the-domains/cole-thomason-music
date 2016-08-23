@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-23T08:11:34.533Z'
+datePublished: '2016-08-23T08:16:40.247Z'
+sourcePath: _posts/2016-06-03-let-the-webcircle-be-unbroken.md
 author: []
 via: {}
 metadata:
@@ -10,20 +11,21 @@ metadata:
   author: []
   description: 'Fellow Musicians:'
   via: {}
-dateModified: '2016-08-23T08:11:32.902Z'
-title: Let the (web)circle be unbroken.
+dateModified: '2016-08-23T08:16:38.742Z'
+title: ''
 id: c4b9c56f-0401-4ea6-98f8-f1c1e7a92d39
 publisher: {}
-description: 'Fellow Musicians:'
+description: Let the (web)circle be unbroken.
 starred: false
-sourcePath: _posts/2016-06-03-let-the-webcircle-be-unbroken.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac11dba0-3911-48be-8604-b8045d1cda7d.jpg" /><h1>Let the (web)circle be unbroken.</h1><p>Click here to connect with our friends around the world. Grassroots, music, art and anything else we think you should devote a second of your online attention span to. This is what inspires us, hope it does the same for you.</p></article>
+Let the (web)circle be unbroken.
+
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac11dba0-3911-48be-8604-b8045d1cda7d.jpg" /><p>Click here to connect with our friends around the world. Grassroots, music, art and anything else we think you should devote a second of your online attention span to. This is what inspires us, hope it does the same for you.</p></article>
 
 Fellow Musicians:
 
