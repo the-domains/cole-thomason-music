@@ -1,23 +1,23 @@
-typography_spectrum: 0.1085106
-content_rating:
-  adult: false
+layout_spectrum: 0.3709731970448047
+typography_spectrum: 0.6911689073313028
 color:
   brandColors:
-    - '#210408'
-    - '#FCFBE5'
-    - '#373632'
-    - '#6D3421'
-    - '#DED1B5'
-  brandStrength: 0.9787234
-  lightness: 0.9808511
-  saturation: 0.7787234
-  rhythmicContrast: 0.2468085
+    - '#000000'
+    - '#98E5FE'
+    - '#35AEFE'
+    - '#827555'
+    - '#1573CA'
+  brandStrength: 0.8876015851274133
+  lightness: 0.3405715418048203
+  saturation: 0.5574607527814806
+  rhythmicContrast: 0.905308484332636
+content_rating:
+  adult: false
 opengraph:
   type: website
   appId: '249783212081793'
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/d176d8f9-7cb6-4eb0-867e-27e1d17e97b3.jpg
-layout_spectrum: 1
 author:
   name: Cole Thomason
   url: ''
