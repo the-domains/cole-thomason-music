@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T08:18:31.738Z'
+datePublished: '2016-08-23T08:20:22.544Z'
 sourcePath: _posts/2016-06-03-let-the-webcircle-be-unbroken.md
 author: []
 via: {}
@@ -11,11 +11,14 @@ metadata:
   author: []
   description: 'Fellow Musicians:'
   via: {}
-dateModified: '2016-08-23T08:18:30.186Z'
-title: Let the (web)circle be unbroken.
+dateModified: '2016-08-23T08:20:20.974Z'
+title: >-
+  Click here to connect with our friends around the world. Grassroots, music,
+  art and anything else we think you should devote a second of your online
+  attention span to. This is what inspires us, hope it does the same for you.
 id: c4b9c56f-0401-4ea6-98f8-f1c1e7a92d39
 publisher: {}
-description: 'Fellow Musicians:'
+description: The Good Luck Thrift Store Outfit
 starred: false
 inFeed: true
 hasPage: false
@@ -23,9 +26,7 @@ inNav: false
 _type: MediaObject
 
 ---
-<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac11dba0-3911-48be-8604-b8045d1cda7d.jpg" /><h1>Let the (web)circle be unbroken.</h1><p>Click here to connect with our friends around the world. Grassroots, music, art and anything else we think you should devote a second of your online attention span to. This is what inspires us, hope it does the same for you.</p></article>
-
-Fellow Musicians:
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac11dba0-3911-48be-8604-b8045d1cda7d.jpg" /><h1>Click here to connect with our friends around the world. Grassroots, music, art and anything else we think you should devote a second of your online attention span to. This is what inspires us, hope it does the same for you.</h1><p>Click here to connect with our friends around the world. Grassroots, music, art and anything else we think you should devote a second of your online attention span to. This is what inspires us, hope it does the same for you.</p></article>
 
 [The Good Luck Thrift Store Outfit][0]
 
