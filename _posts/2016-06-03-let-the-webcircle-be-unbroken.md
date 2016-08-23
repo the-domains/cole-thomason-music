@@ -1,29 +1,39 @@
 ---
-datePublished: '2016-08-23T08:30:11.002Z'
-sourcePath: _posts/2016-06-03-let-the-webcircle-be-unbroken.md
+datePublished: '2016-08-23T08:42:10.033Z'
 author: []
 via: {}
 metadata:
-  title: Let the (web)circle be unbroken.
-  datePublished: '2016-06-06T06:16:51.053Z'
-  dateModified: '2016-08-22T21:58:06.125Z'
-  publisher: {}
+  datePublished: '2016-08-23T08:30:11.002Z'
+  sourcePath: _posts/2016-06-03-let-the-webcircle-be-unbroken.md
   author: []
-  description: 'Fellow Musicians:'
   via: {}
-dateModified: '2016-08-23T08:30:09.348Z'
+  metadata:
+    title: Let the (web)circle be unbroken.
+    datePublished: '2016-06-06T06:16:51.053Z'
+    dateModified: '2016-08-22T21:58:06.125Z'
+    publisher: {}
+    author: []
+    description: 'Fellow Musicians:'
+    via: {}
+  dateModified: '2016-08-23T08:30:11.002Z'
+  title: “let the web circle be unbroken”
+  id: c4b9c56f-0401-4ea6-98f8-f1c1e7a92d39
+  publisher: {}
+  description: ''
+dateModified: '2016-08-23T08:42:08.581Z'
 title: “let the web circle be unbroken”
 id: c4b9c56f-0401-4ea6-98f8-f1c1e7a92d39
 publisher: {}
-description: ''
+description: The Calamity Cubes
 starred: false
+sourcePath: _posts/2016-06-03-let-the-webcircle-be-unbroken.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1be3214b-bc3e-4732-a6a4-b56dc87603e3.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/144c1379-b53c-47d9-969e-73a4f3c52d14.jpg)
 
 # "let the web circle be unbroken"
 
