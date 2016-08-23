@@ -1,11 +1,6 @@
-name: Cole Thomason Music
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/432da3ff-86be-4360-8264-0537f67124b9.jpg
-layout_spectrum: 1
 typography_spectrum: 0.1085106
-opengraph:
-  type: website
-  appId: '249783212081793'
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#210408'
@@ -17,10 +12,17 @@ color:
   lightness: 0.9808511
   saturation: 0.7787234
   rhythmicContrast: 0.2468085
-title: Welcome to the official Cole Thomason website
+opengraph:
+  type: website
+  appId: '249783212081793'
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/d176d8f9-7cb6-4eb0-867e-27e1d17e97b3.jpg
+layout_spectrum: 1
 author:
   name: Cole Thomason
   url: ''
   email: Colethomason@gmail.com
-content_rating:
-  adult: false
+name: Cole Thomason Music
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/432da3ff-86be-4360-8264-0537f67124b9.jpg
+title: Welcome to the official Cole Thomason website
