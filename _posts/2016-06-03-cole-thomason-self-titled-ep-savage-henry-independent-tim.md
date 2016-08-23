@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T07:44:23.892Z'
+datePublished: '2016-08-23T07:50:54.234Z'
 sourcePath: _posts/2016-06-03-cole-thomason-self-titled-ep-savage-henry-independent-tim.md
 isBasedOnUrl: 'http://savagehenrymagazine.com/cole-thomason-self-titled-ep/'
 keywords:
@@ -19,7 +19,7 @@ author:
     url: null
     avatar: {}
 via: {}
-dateModified: '2016-08-23T07:44:22.208Z'
+dateModified: '2016-08-23T07:50:52.784Z'
 title: 'Reveiw : Cole Thomason: Waterlogged EP - Savage Henry Independent Times'
 app_links: []
 publisher:
@@ -42,4 +42,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/545c92f6-9806-4980-8d4e-6234044c57ef.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac0f9845-90fb-45c3-8437-fe7099f7e882.jpg)
