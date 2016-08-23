@@ -1,23 +1,33 @@
 ---
-description: 'Fellow Musicians:'
-datePublished: '2016-06-06T06:16:51.053Z'
-sourcePath: _posts/2016-06-03-let-the-webcircle-be-unbroken.md
+datePublished: '2016-08-23T08:11:34.533Z'
 author: []
-dateModified: '2016-06-06T06:16:34.867Z'
+via: {}
+metadata:
+  title: Let the (web)circle be unbroken.
+  datePublished: '2016-06-06T06:16:51.053Z'
+  dateModified: '2016-08-22T21:58:06.125Z'
+  publisher: {}
+  author: []
+  description: 'Fellow Musicians:'
+  via: {}
+dateModified: '2016-08-23T08:11:32.902Z'
 title: Let the (web)circle be unbroken.
+id: c4b9c56f-0401-4ea6-98f8-f1c1e7a92d39
+publisher: {}
+description: 'Fellow Musicians:'
 starred: false
+sourcePath: _posts/2016-06-03-let-the-webcircle-be-unbroken.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac11dba0-3911-48be-8604-b8045d1cda7d.jpg" /><h1>Let the (web)circle be unbroken.</h1><p>Our friends around the world. Grassroots, music, art and anything else we think you should devote a second of your online attention span to. This is what inspires us, hope it does the same for you.</p></article>
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac11dba0-3911-48be-8604-b8045d1cda7d.jpg" /><h1>Let the (web)circle be unbroken.</h1><p>Click here to connect with our friends around the world. Grassroots, music, art and anything else we think you should devote a second of your online attention span to. This is what inspires us, hope it does the same for you.</p></article>
 
 Fellow Musicians:
 
 [The Good Luck Thrift Store Outfit][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/beacc169-2ba3-4ac0-88ff-7ad7a049fe1f.jpg)
 
 [Sons of Jefferson][1]
 
