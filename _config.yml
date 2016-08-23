@@ -24,12 +24,12 @@ author:
   email: Colethomason@gmail.com
 name: 'Cole Thomason: Songwriter, Singer, Musician'
 navigation:
-  - name: “let the web circle be unbroken”
-    id: c4b9c56f-0401-4ea6-98f8-f1c1e7a92d39
-    type: content
   - name: follow us on facebook
     url: facebook.com/colethomasoneverybody
     type: external
+  - name: “let the web circle be unbroken”
+    id: c4b9c56f-0401-4ea6-98f8-f1c1e7a92d39
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/432da3ff-86be-4360-8264-0537f67124b9.jpg
 title: "\_ColeThomason.com"
