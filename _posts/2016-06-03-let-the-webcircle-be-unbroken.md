@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T08:42:10.033Z'
+datePublished: '2016-08-23T09:14:02.228Z'
 author: []
 via: {}
 metadata:
@@ -20,17 +20,16 @@ metadata:
   id: c4b9c56f-0401-4ea6-98f8-f1c1e7a92d39
   publisher: {}
   description: ''
-dateModified: '2016-08-23T08:42:08.581Z'
+dateModified: '2016-08-23T09:14:00.291Z'
 title: “let the web circle be unbroken”
 id: c4b9c56f-0401-4ea6-98f8-f1c1e7a92d39
 publisher: {}
 description: The Calamity Cubes
-starred: false
 sourcePath: _posts/2016-06-03-let-the-webcircle-be-unbroken.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: let-the-web-circle-be-unbroken/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/144c1379-b53c-47d9-969e-73a4f3c52d14.jpg)
