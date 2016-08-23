@@ -1,5 +1,6 @@
-layout_spectrum: 0.6895380516070873
 typography_spectrum: 0.9497890525963157
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#000000'
@@ -11,22 +12,18 @@ color:
   lightness: 0.3405715418048203
   saturation: 0.5574607527814806
   rhythmicContrast: 0.905308484332636
-content_rating:
-  adult: false
 opengraph:
   type: website
   appId: '249783212081793'
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/d176d8f9-7cb6-4eb0-867e-27e1d17e97b3.jpg
+layout_spectrum: 0.6895380516070873
 author:
   name: Cole Thomason
   url: ''
   email: Colethomason@gmail.com
 name: 'Cole Thomason: Songwriter, Singer, Musician'
 navigation:
-  - name: follow us on facebook
-    url: facebook.com/colethomasoneverybody
-    type: external
   - name: “let the web circle be unbroken”
     id: c4b9c56f-0401-4ea6-98f8-f1c1e7a92d39
     type: content
