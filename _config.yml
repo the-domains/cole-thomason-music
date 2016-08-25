@@ -1,15 +1,6 @@
-name: 'Cole Thomason: Songwriter, Singer, Musician'
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/432da3ff-86be-4360-8264-0537f67124b9.jpg
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e0a269c-97b8-45ae-a4f9-3a67c38f706b.png
-layout_spectrum: 0.22964778589084744
 typography_spectrum: 0.6405087963212281
-opengraph:
-  type: website
-  appId: '249783212081793'
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/d176d8f9-7cb6-4eb0-867e-27e1d17e97b3.jpg
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#000000'
@@ -21,13 +12,19 @@ color:
   lightness: 0.3405715418048203
   saturation: 0.5574607527814806
   rhythmicContrast: 0.905308484332636
-title: "\_ColeThomason.com"
+opengraph:
+  type: website
+  appId: '249783212081793'
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/d176d8f9-7cb6-4eb0-867e-27e1d17e97b3.jpg
+layout_spectrum: 0.22964778589084744
 author:
   name: Cole Thomason
   url: ''
   email: Colethomason@gmail.com
-content_rating:
-  adult: false
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e0a269c-97b8-45ae-a4f9-3a67c38f706b.png
+name: 'Cole Thomason: Songwriter, Singer, Musician'
 navigation:
   - name: “let the web circle be unbroken”
     id: c4b9c56f-0401-4ea6-98f8-f1c1e7a92d39
@@ -35,3 +32,7 @@ navigation:
   - name: like us on facebook
     url: 'http://facebook.com/colethomasoneverybody'
     type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/432da3ff-86be-4360-8264-0537f67124b9.jpg
+title: "\_ColeThomason.com"
+description: 'Check-in on the latest albums, shows, and stories it''s all right here.'
