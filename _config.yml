@@ -1,5 +1,6 @@
-layout_spectrum: 0.22964778589084744
 typography_spectrum: 0.6405087963212281
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#000000'
@@ -11,13 +12,12 @@ color:
   lightness: 0.3405715418048203
   saturation: 0.5574607527814806
   rhythmicContrast: 0.905308484332636
-content_rating:
-  adult: false
 opengraph:
   type: website
   appId: '249783212081793'
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/d176d8f9-7cb6-4eb0-867e-27e1d17e97b3.jpg
+layout_spectrum: 0.22964778589084744
 author:
   name: Cole Thomason
   url: ''
@@ -33,4 +33,4 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/432da3ff-86be-4360-8264-0537f67124b9.jpg
 title: "\_ColeThomason.com"
-description: 'Check in on upcoming shows, albums, stories its all right here.'
+description: 'Check-in on upcoming shows, albums, stories its all right here.'
