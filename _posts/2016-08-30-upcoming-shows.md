@@ -1,14 +1,13 @@
 ---
-datePublished: '2016-08-30T23:52:37.552Z'
-sourcePath: _posts/2016-08-30-upcoming-shows.md
-author: []
-via: {}
-dateModified: '2016-08-30T23:52:35.925Z'
 title: Upcoming Shows
-id: 231091f7-f88e-45bd-b842-f8ab7dc56a5a
+datePublished: '2016-08-31T07:17:20.029Z'
+dateModified: '2016-08-31T07:16:41.660Z'
 publisher: {}
+author: []
 description: ''
-starred: true
+via: {}
+starred: false
+sourcePath: _posts/2016-08-30-upcoming-shows.md
 inFeed: true
 hasPage: false
 inNav: false
