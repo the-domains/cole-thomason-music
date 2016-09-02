@@ -12,11 +12,9 @@ keywords:
   - inky
   - t-shirt
   - llc
-title: >-
-  Click here to support Cole Thomason Waterlogged T-shirts organized by Cole
-  Thomason
-datePublished: '2016-08-31T07:17:30.009Z'
-dateModified: '2016-08-31T07:16:45.341Z'
+title: Click here to buy a shirt & raise funds for more merch!
+datePublished: '2016-08-31T08:35:48.166Z'
+dateModified: '2016-08-31T08:35:22.878Z'
 publisher:
   name: Booster
   domain: www.booster.com
@@ -37,4 +35,4 @@ inNav: false
 _type: MediaObject
 
 ---
-<article style=""><h1>Click here to support Cole Thomason Waterlogged T-shirts organized by Cole Thomason</h1><p>Cole Thomason Waterlogged T-shirts. Campaign ends Thursday, September 29. Help us meet our fundraising goal of 100 shirts!</p><img src="https://www.customink.com/proof/avs0-00aq-cbd6/15008/front/wide_thumbnail.jpg" /></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/15a5c955e875e1df1067d92b2d08d1b5/noop.jpg?input=https%3A%2F%2Fwww.customink.com%2Fproof%2Favs0-00aq-cbd6%2F15008%2Ffront%2Fwide_thumbnail.jpg" /><h1>Click here to buy a shirt &amp; raise funds for more merch!</h1><p>Cole Thomason Waterlogged T-shirts. Campaign ends Thursday, September 29. Help us meet our fundraising goal of 100 shirts!</p></article>
