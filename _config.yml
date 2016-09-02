@@ -29,7 +29,7 @@ navigation:
   - name: Upcoming Shows
     id: 231091f7-f88e-45bd-b842-f8ab7dc56a5a
     type: content
-  - name: like us on facebook
+  - name: Like us on facebook
     url: 'http://facebook.com/colethomasoneverybody'
     type: external
 favicon: >-
