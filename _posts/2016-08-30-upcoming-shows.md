@@ -1,14 +1,14 @@
 ---
 id: 231091f7-f88e-45bd-b842-f8ab7dc56a5a
-dateModified: '2016-08-30T23:32:00.907Z'
+dateModified: '2016-08-30T23:32:05.814Z'
 title: ''
-datePublished: '2016-08-30T23:32:02.880Z'
+datePublished: '2016-08-30T23:32:06.701Z'
 author: []
 description: Upcoming Shows
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-30-upcoming-shows.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
