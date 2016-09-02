@@ -1,5 +1,6 @@
-layout_spectrum: 0.22472466458566487
 typography_spectrum: 0.646608498878777
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#000000'
@@ -11,13 +12,12 @@ color:
   lightness: 0.3405715418048203
   saturation: 0.5574607527814806
   rhythmicContrast: 0.905308484332636
-content_rating:
-  adult: false
 opengraph:
   type: website
   appId: '249783212081793'
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/d176d8f9-7cb6-4eb0-867e-27e1d17e97b3.jpg
+layout_spectrum: 0.22472466458566487
 author:
   name: Cole Thomason
   url: ''
@@ -28,6 +28,20 @@ name: 'Cole Thomason: Songwriter, Singer, Musician'
 navigation:
   - name: like us on facebook
     url: 'http://facebook.com/colethomasoneverybody'
+    type: external
+  - name: shows
+    url: >-
+      <div class="widget_iframe"
+      style="display:inline-block;width:100%;height:550px;margin:0;padding:0;border:0;"><iframe
+      class="widget_iframe"
+      src="https://www.reverbnation.com/widget_code/html_widget/artist_2674228?widget_id=52&amp;posted_by=artist_2674228&pwc[design]=default&pwc[background_color]=%23333333&pwc[layout]=detailed&pwc[show_map]=0%2C1&pwc[size]=fit"
+      width="100%" height="100%" frameborder="0" scrolling="no"></iframe><div
+      class="footer_branding"
+      style="margin-top:-5px;font-size:10px;font-family:Arial;"><center><a
+      href="https://www.reverbnation.com/band-promotion/epk-electronic-press-kits?utm_campaign=a_features_rpk&utm_medium=widget&utm_source=HTML5_Show_Schedule&utm_content=widgetfooter_Free
+      Electronic Press Kits template from ReverbNation.com" target="_blank"
+      style="text-decoration:none;color:#444;">Free Electronic Press Kits
+      template from ReverbNation.com</a></center></div></div>
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/432da3ff-86be-4360-8264-0537f67124b9.jpg
