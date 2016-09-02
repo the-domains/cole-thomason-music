@@ -1,17 +1,18 @@
 ---
-datePublished: '2016-08-30T23:29:22.048Z'
+id: 231091f7-f88e-45bd-b842-f8ab7dc56a5a
+dateModified: '2016-08-30T23:32:00.907Z'
+title: ''
+datePublished: '2016-08-30T23:32:02.880Z'
+author: []
+description: Upcoming Shows
+publisher: {}
+via: {}
+starred: false
 sourcePath: _posts/2016-08-30-upcoming-shows.md
 inFeed: true
-author: []
-via: {}
-dateModified: '2016-08-30T23:29:20.538Z'
-title: ''
-publisher: {}
-description: Upcoming Shows
-hasPage: true
-starred: true
-url: upcoming-shows/index.html
-_type: Article
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
 Upcoming Shows
