@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-08-30T19:13:37.212Z'
+datePublished: '2016-08-30T22:11:36.909Z'
 sourcePath: _posts/2016-08-30-upcoming-shows.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-30T19:13:35.599Z'
+dateModified: '2016-08-30T22:11:34.960Z'
 title: ''
 publisher: {}
 description: Upcoming Shows
+hasPage: true
 starred: false
-_type: Blurb
+url: upcoming-shows/index.html
+_type: Article
 
 ---
 Upcoming Shows
