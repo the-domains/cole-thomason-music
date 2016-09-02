@@ -1,7 +1,7 @@
 ---
 title: Upcoming Shows
-datePublished: '2016-08-31T08:04:43.350Z'
-dateModified: '2016-08-31T08:04:26.542Z'
+datePublished: '2016-08-31T08:04:23.982Z'
+dateModified: '2016-08-31T08:04:08.494Z'
 publisher: {}
 author: []
 description: ''
@@ -14,7 +14,7 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d49053fb-fdc3-4c12-8941-a6718b42e96a.jpg)
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d49053fb-fdc3-4c12-8941-a6718b42e96a.jpg" /></article>
 
 # Upcoming Shows
 
