@@ -1,12 +1,12 @@
 ---
 title: ''
-datePublished: '2016-08-31T08:57:33.116Z'
-dateModified: '2016-08-31T08:57:24.565Z'
+datePublished: '2016-08-31T08:59:24.937Z'
+dateModified: '2016-08-31T08:58:49.260Z'
 publisher: {}
 author: []
 description: 'Upcoming '
 via: {}
-starred: false
+starred: true
 sourcePath: _posts/2016-08-30-upcoming-shows.md
 inFeed: true
 hasPage: false
