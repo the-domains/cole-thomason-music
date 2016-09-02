@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-30T18:13:36.639Z'
+datePublished: '2016-08-30T18:26:05.016Z'
 sourcePath: _posts/2016-08-30-upcoming-shows.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-30T18:13:22.351Z'
+dateModified: '2016-08-30T18:26:03.481Z'
 title: Upcoming Shows
 publisher: {}
 description: ''
@@ -14,4 +14,4 @@ _type: Blurb
 ---
 # Upcoming Shows
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJydktuOmzAQhl8FUWXvWFiatBXEWVVVq0o9qOr2roqQsQew8AHZw7Lp0-8ASdReVJXKBbJnPDO_v997qR4joXkILJ6UbAEr1XhuII4CnjSwWKowaH4qlNXKQlJrJ_qSjmJX3GXZpuxAtR0Wu102PJWG-1bZIisHLqWyLa1q5yV4WsSH_dr6b_O8YHGHOIQiTadpuvXwCL62HJWzt8KZ9FwgnIS0Q6OrNZByjypglb96vc3zN_eXvpLt8htuhnJwAUFW9Yn9efJmmMRPCUG19sgkNHzUuMRqLvrWu9FKGqadP7JN_nL9ljzxcCPONciVBrkEQ-emyvDhyLJN_u5ujalfcGSNwjhakLF4ZhZHK7TLbgGwcmJxRiSEd5potyy2jrClK6LD_jezGucQfFV7bmfQV7tWBxJ0Q5HsyJHGWUxmGeTWZdtwo_SpeOsV17MtAiz1Oux51Hlo_mFCTQOTwTvj5lAKQ5-ABoHeWSUoASEkvcJwP6KpBOHnhJfxqgGOI2UrP_Q3c86AVKNhq1tLJLjRC2Aff3z5vKseZpwPogM5aljSgrST0nPFGcAHDxC9vwqIvs0Cok8kIEIw9HIRiK8z0fflIl-vF4kjJFRAJlS15ra_EkR4wkSCcH45W1hnoVyeQfFiu90SsP-euU85uXnBnZKd5_8zPzRFvw" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyNkk2P0zAQhv9KFLS9ZZMtDaC07oobB-BAuaEqcuxJYtUfkT3ebvn1TJy2ggOCHCLPeD6f1zupXjKheQgsPys5ALaq99xAngW8aGC5VGHS_NIoq5WFotNOnLYUimNTV9X0uh1BDSM2dT0bhvtB2abaTlxKZQc6dc5L8HTI97ul9t8aesHyEXEKTVmez-dHDy_gO8tROfsonCmvCcJJKEc0ul0cJfeoArbrd-836_WH51tdyer1iptpO7mAINvuwv6MXE1n8UNCUIM9Mgk9jxqTr-PiNHgXraRm2vkje1i_Xb50T0BcxDkHudIgkzOM7twaPh1ZtdjqJxyZiAGdybOEjOVPVfWQZwuzm5X2XzCxvCIQwjtNtAeWW0fUyoXQfvebWL1zCL7tPLcz57tciwAFuqkpahKkdxaLeZLmqbqZPTdKX5qPXnE9qyLAUq39jmejh_4fGnTUsJi8M252lbQzNSsCaF2YGJQonC0URgvhOaJpBfHnxJfxtgeO0UNo6UmhV12cC6zmIANSRcMW3ZInuOgFsE_fv3yu28MM9iBGkFFDuha0Bg19zbiyONAMWZohc-mxZhyzb2n-r_f58wyJEBD7ttPcnu7gEF6xkCCcT7GNdRa2SfzmzWazIU7_VX9XchLsRrQkxa7_XxDzPHk" style=""></iframe>
