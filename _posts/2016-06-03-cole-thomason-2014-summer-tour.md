@@ -1,8 +1,13 @@
 ---
 isBasedOnUrl: 'https://youtu.be/jnhIfzEaU9k'
 title: Here's a music video we made with some footage of the 2014 summer tour
-datePublished: '2016-08-31T08:33:54.213Z'
-dateModified: '2016-08-31T08:33:50.301Z'
+datePublished: '2016-08-31T08:59:34.775Z'
+dateModified: '2016-08-31T08:59:16.223Z'
+publisher:
+  name: YouTube
+  domain: youtu.be
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 author:
   - name: ''
     url: 'https://www.youtube.com/user/SuperPsychicNinja'
@@ -12,13 +17,8 @@ description: >-
   the country. From California up to Chicago and Minnesota then down into
   Indiana, through Tennessee and back home through New mexico and Arizona. Hope
   you enjoy.
-publisher:
-  name: YouTube
-  domain: youtu.be
-  url: 'https://www.youtube.com/'
-  favicon: 'https://www.youtube.com/favicon.ico'
 via: {}
-starred: false
+starred: true
 sourcePath: _posts/2016-06-03-cole-thomason-2014-summer-tour.md
 inFeed: true
 hasPage: false
