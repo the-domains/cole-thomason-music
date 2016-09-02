@@ -15,8 +15,8 @@ keywords:
 title: >-
   Click here to support Cole Thomason Waterlogged T-shirts organized by Cole
   Thomason
-datePublished: '2016-08-31T05:27:40.377Z'
-dateModified: '2016-08-31T05:01:43.537Z'
+datePublished: '2016-08-31T07:17:30.009Z'
+dateModified: '2016-08-31T07:16:45.341Z'
 publisher:
   name: Booster
   domain: www.booster.com
@@ -28,7 +28,7 @@ description: >-
   Cole Thomason Waterlogged T-shirts. Campaign ends Thursday, September 29. Help
   us meet our fundraising goal of 100 shirts!
 via: {}
-starred: true
+starred: false
 sourcePath: >-
   _posts/2016-08-31-click-here-to-support-cole-thomason-waterlogged-t-shirts-org.md
 inFeed: true
