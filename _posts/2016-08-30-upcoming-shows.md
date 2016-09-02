@@ -1,13 +1,13 @@
 ---
-id: 231091f7-f88e-45bd-b842-f8ab7dc56a5a
-dateModified: '2016-08-30T23:32:05.814Z'
-title: ''
-datePublished: '2016-08-30T23:32:06.701Z'
-author: []
-description: Upcoming Shows
-publisher: {}
-via: {}
+datePublished: '2016-08-30T23:49:50.152Z'
 sourcePath: _posts/2016-08-30-upcoming-shows.md
+author: []
+via: {}
+dateModified: '2016-08-30T23:49:48.578Z'
+title: ''
+id: 231091f7-f88e-45bd-b842-f8ab7dc56a5a
+publisher: {}
+description: Upcoming Shows
 starred: true
 inFeed: true
 hasPage: false
