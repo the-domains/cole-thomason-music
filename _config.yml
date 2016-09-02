@@ -7,10 +7,10 @@ color:
     - '#35AEFE'
     - '#827555'
     - '#1573CA'
-  brandStrength: 0.6162039625924081
-  lightness: 0.15789155568927526
-  saturation: 0.7944345180876553
-  rhythmicContrast: 0.681134237209335
+  brandStrength: 0.009883527178317308
+  lightness: 0.20008009974844754
+  saturation: 0.32328661042265594
+  rhythmicContrast: 0.6619129574391991
 coverPrefs:
   filter: false
 content_rating:
