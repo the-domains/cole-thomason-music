@@ -1,26 +1,25 @@
 ---
-datePublished: '2016-08-30T21:43:59.789Z'
-sourcePath: _posts/2016-08-30-cole-thomason-dragging-canoe.md
 isBasedOnUrl: 'https://youtu.be/a5aZgt4Jiy0'
+title: Cole Thomason - Dragging Canoe
+datePublished: '2016-08-31T08:59:27.557Z'
+dateModified: '2016-08-31T08:59:10.458Z'
 author:
   - name: Threelle Productions
     url: 'https://www.youtube.com/user/threelleproductions'
     avatar: {}
-via: {}
-dateModified: '2016-08-30T21:43:05.938Z'
-title: Cole Thomason - Dragging Canoe
-id: b7bd41bb-e28c-4cf1-ac7b-1059228bcc11
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: youtu.be
 description: >-
   Chillin with Cole Thomason on a beautiful Fall day in Modesto CA, down by the
   creek. His song "Dragging Canoe" is a story about a true Native American Hero.
   A Cherokee warrior and leader of the Chickamaugas. that fought until the end
   to keep his people free.
-starred: false
+publisher:
+  name: YouTube
+  domain: youtu.be
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+via: {}
+starred: true
+sourcePath: _posts/2016-08-30-cole-thomason-dragging-canoe.md
 inFeed: true
 hasPage: false
 inNav: false
