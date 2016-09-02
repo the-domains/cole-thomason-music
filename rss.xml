@@ -4,7 +4,7 @@
         <description><![CDATA[ ColeThomason.com]]></description>
         <link>http://colethomason.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 21:44:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 23:26:15 GMT</lastBuildDate>
         <atom:link href="http://colethomason.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cole Thomason - Dragging Canoe]]></title>
@@ -12,6 +12,13 @@
             <link>https://youtu.be/a5aZgt4Jiy0</link>
             <guid isPermaLink="false">b7bd41bb-e28c-4cf1-ac7b-1059228bcc11</guid>
             <pubDate>Tue, 30 Aug 2016 21:43:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Upcoming Shows]]></title>
+            <description><![CDATA[<p>Upcoming Shows</p>]]></description>
+            <link>http://colethomason.com/upcoming-shows/index.html</link>
+            <guid isPermaLink="false">231091f7-f88e-45bd-b842-f8ab7dc56a5a</guid>
+            <pubDate>Tue, 30 Aug 2016 22:11:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cole Thomason Music Monthly Newsletter.]]></title>
@@ -40,13 +47,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/536ff6ea-b691-4394-8334-1c19c1109836.jpg</link>
             <guid isPermaLink="false">5f32fa4a-1508-4703-ad90-4161947c9201</guid>
             <pubDate>Tue, 23 Aug 2016 07:38:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/305a177b-3111-4355-bc0a-62f886fd7803.jpg">]]></description>
-            <link>http://colethomason.com/9cbdf573-e392-42a1-bdd1-fb6fba0e0c6d/index.html</link>
-            <guid isPermaLink="false">9cbdf573-e392-42a1-bdd1-fb6fba0e0c6d</guid>
-            <pubDate>Sun, 05 Jun 2016 00:08:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
