@@ -1,12 +1,6 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://www.booster.com'
-  name: Booster
-  favicon: >-
-    https://cdn.booster.com/merchandising/assets/favicon-68bfa8db94af56ad63446fa18c5ead44.ico
-  domain: www.booster.com
+isBasedOnUrl: 'https://www.booster.com/cole-thomason-waterlogged-t-shirts'
+inLanguage: en
 keywords:
   - non-profits
   - customink
@@ -18,25 +12,28 @@ keywords:
   - inky
   - t-shirt
   - llc
-description: >-
-  Cole Thomason Waterlogged T-shirts. Campaign ends Thursday, September 29. Help
-  us meet our fundraising goal of 100 shirts!
-inLanguage: en
-app_links: []
-isBasedOnUrl: 'https://www.booster.com/cole-thomason-waterlogged-t-shirts'
 title: >-
   Click here to support Cole Thomason Waterlogged T-shirts organized by Cole
   Thomason
-datePublished: '2016-08-31T02:26:23.630Z'
-dateModified: '2016-08-31T02:26:04.181Z'
+datePublished: '2016-08-31T05:27:40.377Z'
+dateModified: '2016-08-31T05:01:43.537Z'
+publisher:
+  name: Booster
+  domain: www.booster.com
+  url: 'https://www.booster.com'
+  favicon: >-
+    https://cdn.booster.com/merchandising/assets/favicon-68bfa8db94af56ad63446fa18c5ead44.ico
+author: []
+description: >-
+  Cole Thomason Waterlogged T-shirts. Campaign ends Thursday, September 29. Help
+  us meet our fundraising goal of 100 shirts!
 via: {}
-starred: false
+starred: true
 sourcePath: >-
   _posts/2016-08-31-click-here-to-support-cole-thomason-waterlogged-t-shirts-org.md
 inFeed: true
 hasPage: false
 inNav: false
-_context: 'http://schema.org'
 _type: MediaObject
 
 ---
