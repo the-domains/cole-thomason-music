@@ -1,5 +1,6 @@
-layout_spectrum: 0.30981058767065406
 typography_spectrum: 0.7265041088685393
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#000000'
@@ -11,13 +12,12 @@ color:
   lightness: 0.3405715418048203
   saturation: 0.5574607527814806
   rhythmicContrast: 0.905308484332636
-content_rating:
-  adult: false
 opengraph:
   type: website
   appId: '249783212081793'
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/d176d8f9-7cb6-4eb0-867e-27e1d17e97b3.jpg
+layout_spectrum: 0.30981058767065406
 author:
   name: Cole Thomason
   url: colethomason.com
